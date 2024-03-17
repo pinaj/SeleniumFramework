@@ -1,0 +1,2 @@
+class FormSubmissionData:
+    test_form_submission_data = [{'firstname':'pinaj','email':'xyz@gmail.com','pwd':'xyz','gender':'Female'},{'firstname':'pinaj1','email':'xyz1@gmail.com','pwd':'xyz','gender':'Male'}]
